@@ -1,1 +1,2 @@
 hello main text
+hi this is bug 2 work
